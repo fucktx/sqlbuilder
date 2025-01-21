@@ -1,5 +1,5 @@
 [package]
-name = "sqlbuilder-rs"
+name = "sqlbuilder"
 version = "0.1.0"
 edition = "2021"
 
